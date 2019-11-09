@@ -1,0 +1,6 @@
+name: integration-hub
+title: Integration Hub
+version: dev
+nav:
+- modules/ROOT/nav.adoc
+- modules/transaction-monitor/nav.adoc
