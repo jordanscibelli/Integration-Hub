@@ -1,0 +1,20 @@
+= Transaction Monitoring 
+
+PortX enables you to monitor B2B transaction data. A transaction is the full set of end-to-end events (including transmissions, documents, and errors) involved in processing a transmission.
+
+You can:
+
+* Filter to find the specific transaction data for which you are looking
+
+* Review and monitor errors and acknowledgements
+
+* Search for metadata
+
+This page identifies the PortX components you use to monitor transactions; see also tracking-scenarios.adoc. 
+
+== Get Started
+1. Start Integration Hub. The Transaction Monitoring Page appears. 
+
+image::.\Pictures\Figure 1. Transaction Monitoring Page.PNG[] 
+
+_Figure 1. Transaction Monitoring Page_ 
