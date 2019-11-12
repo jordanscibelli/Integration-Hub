@@ -10,11 +10,13 @@ You can:
 
 * Search for metadata
 
-This page identifies the PortX components you use to monitor transactions; see also tracking-scenarios.adoc. 
+This page identifies the PortX components you use to monitor transactions; see also <<tracking-scenarios.adoc>>. 
 
 == Get Started
 1. xref:ROOT:index.adoc[Start Integration Hub]. The <<Transaction Monitoring Page>> appears. 
 
 image::figure-1.png[Transaction Monitoring Page]
+        
+_Figure 1. Transaction Monitoring Page_
 
 anchor::figure-1.png[Transaction Monitoring Page]
