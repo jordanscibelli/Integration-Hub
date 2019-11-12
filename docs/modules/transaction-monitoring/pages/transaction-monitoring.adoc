@@ -17,4 +17,4 @@ This page identifies the PortX components you use to monitor transactions; see a
 
 image::figure-1.png[Transaction Monitoring Page]
 
-_Figure 1. Transaction Monitoring Page_ 
+anchor::figure-1.png[Transaction Monitoring Page]
