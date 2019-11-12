@@ -13,8 +13,8 @@ You can:
 This page identifies the PortX components you use to monitor transactions; see also tracking-scenarios.adoc. 
 
 == Get Started
-1. Start Integration Hub. The Transaction Monitoring Page appears. 
+1. xref:ROOT:index.adoc[Start Integration Hub]. The <<Transaction Monitoring Page>> appears. 
 
-image::.\Pictures\Figure 1. Transaction Monitoring Page.PNG[] 
+image::figure-1.png[Transaction Monitoring Page]
 
 _Figure 1. Transaction Monitoring Page_ 
